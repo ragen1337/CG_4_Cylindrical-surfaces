@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG_4_Cylindrical surfaces", "CG_4_Cylindrical surfaces\CG_4_Cylindrical surfaces.csproj", "{BFC3668B-920F-4169-86AA-590C83E7F6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC3668B-920F-4169-86AA-590C83E7F6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC3668B-920F-4169-86AA-590C83E7F6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC3668B-920F-4169-86AA-590C83E7F6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC3668B-920F-4169-86AA-590C83E7F6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13EF8389-688D-4DC1-AD2C-2EEF5C99711F}
+	EndGlobalSection
+EndGlobal
